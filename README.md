@@ -1,7 +1,7 @@
 # Image-Classification with Random Forest
 
 
-an example script if you want to do image-classification stuff with Random Forest. The datasets are available at [cell_images](ftp://lhcftp.nlm.nih.gov/Open-Access-Datasets/Malaria/cell_images.zip). Please download so you can follow the script.
+an example script if you want to do image-classification stuff with Random Forest. The datasets are available at Malaria Dataset [cell_images.zip](https://lhncbc.nlm.nih.gov/LHC-downloads/downloads.html). Please download so you can follow the script.
 
 ## Workflow
 
